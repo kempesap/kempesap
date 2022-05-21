@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @kempesap
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-kempesap/kempesap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in  pascal , Flutter
+- 🌱 I’m currently learning  Delphi e lazarus mais o  Flutter
+- 💞️ I’m looking to collaborate on  com projetos
+- 📫 How to reach me  celular e watts 43 991411234 email kempe@outlook.com.br
